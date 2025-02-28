@@ -18,7 +18,7 @@ Languages I have worked with before:
   <img width="12" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="LATEX logo" style="border-radius: 5px; background-color: #f7df1e"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="RISC-V logo"/>
+  <img src="https://riscv.org/wp-content/uploads/2024/08/riscv-color.svg" height="40" alt="RISC-V logo"/>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="Python logo"/>
   <img width="12" />
