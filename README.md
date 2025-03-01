@@ -2,31 +2,19 @@
 
 Languages I have worked with before:
   
-<div src="background.css">
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C logo" />  
-  <img width="12" />
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="Postgre SQL logo" />
-  <img width="12" />
-  <img class=".img" class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height = "40" alt="CSS logo"/>
-  <img width="12" /> 
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo"/>
-  <img width="12" />  
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="JAVA logo"/>
-  <img width="12" />   
-  <img class=".img" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="LATEX logo" style="border-radius: 5px; background-color: #f7df1e"/>
-  <img width="12" />
-  <img class=".img" src="https://riscv.org/wp-content/uploads/2024/08/riscv-color.svg" height="40" alt="RISC-V logo"/>
-  <img width="12" />
-  <img class=".img" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="Python logo"/>
-  <img width="12" />
-  <img class=".img" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml logo" style="border-radius: 5px; background-color: #f7df1e"/>
-  <img width="12" />
-  <img class=".img" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-original.svg" height="40" alt="Prolog logo"/>
-  <img width="12" />
-  <img class=".img" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-plain-wordmark.svg" height="40" alt="SWI-prolog logo"/>
-  <img width="12" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="LaTeX logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
+  <img src="https://riscv.org/wp-content/uploads/2024/08/riscv-color.svg" height="40" alt="RISC-V logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="Python logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-original.svg" height="40" alt="Prolog logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-plain-wordmark.svg" height="40" alt="SWI-Prolog logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
 </div>
 
 <!--
