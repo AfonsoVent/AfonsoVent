@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Languages I have worked with before at [Universidade de Évora](https://www.uevora.pt):
+Languages I have worked with before at the [Universidade de Évora](https://www.uevora.pt):
   
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
@@ -17,13 +17,16 @@ Languages I have worked with before at [Universidade de Évora](https://www.uevo
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prolog/prolog-plain-wordmark.svg" height="40" alt="SWI-Prolog logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
 </div>
 
-Languages then I stuied:
-https://github.com/devicons/devicon/blob/v2.16.0/icons/haskell/haskell-original.svg
-
-
+Languages that I studied:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/haskell/haskell-original.svg" height="40" alt="haskell logo">
+  <img src="https://juliafernanda146.github.io/DesbravaCode/img/csharp.webp" height="40" alt="C# logo">
+</div>
 
 Languages I am currently learning and studying:
-https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++ logo">
+</div>
 
 <!--
  <span style="display: inline-block; background-color: #f7df1e; border-radius: 5px; padding: 5px;"
