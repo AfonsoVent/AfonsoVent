@@ -3,8 +3,8 @@
 Languages I have worked with before at the [Universidade de Évora](https://www.uevora.pt):
   
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
+  <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/javascript.png" height="40" alt="JavaScript logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;" />
+  <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/C.png" height="40" alt="C logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML logo" style="border-radius: 5px; background-color: #ccced1; border: 1px solid black;"/>
@@ -20,7 +20,7 @@ Languages I have worked with before at the [Universidade de Évora](https://www.
 Languages that I studied:
 <div>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/haskell/haskell-original.svg" height="40" alt="haskell logo">
-  <img src="https://juliafernanda146.github.io/DesbravaCode/img/csharp.webp" height="40" alt="C# logo">
+  <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/C%23.png" height="40" alt="C# logo">
 </div>
 
 Languages I am currently learning and studying:
