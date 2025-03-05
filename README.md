@@ -20,7 +20,7 @@ Languages I have worked with before at the [Universidade de Évora](https://www.
 Languages that I studied:
 <div>
   <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/haskell-original.png" height="40" alt="haskell logo">
-  <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/C%23.png" height="40" alt="C# logo">
+  <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/CSharp.png" height="40" alt="C# logo">
 </div>
 
 Languages I am currently learning and studying:
