@@ -28,7 +28,7 @@ Languages I am currently learning and studying:
   <img src="https://github.com/AfonsoVent/AfonsoVent/blob/main/novo-icons/C%2B%2B.png" height="40" alt="C++ logo">
 </div>
 
-📄 CV: <a href=https://github.com/AfonsoVent/AfonsoVent/blob/main/Afonso%20Ventura%20CV.pdf>Afonso Ventura</a>
+📄 CV: <a href=https://github.com/AfonsoVent/AfonsoVent/blob/main/AfonsoVentCV.pdf>Afonso Ventura</a>
 <!--
 **AfonsoVent/AfonsoVent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
